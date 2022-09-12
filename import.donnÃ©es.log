@@ -1,0 +1,1222 @@
+
+
+ LOG file opened at 03/09/20 22:51:32
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 13:20:32
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 13:29:21
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 13:39:09
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 14:50:13
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 14:53:53
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 14:59:02
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 15:12:49
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 15:15:05
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 15:17:55
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 15:23:53
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 15:26:16
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 15:28:58
+
+Field Definitions for table COMPLETEDATA
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ID                              CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDIT                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    VALEUR_CREDITREJETE             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    DUETOTHEBANQ                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ETATDUPRET                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NUM_STATUS                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ISACTIVEMEMBER                  CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    ESTIMATEDSALARY                 CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HASCREDITCARD                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    EXITED                          CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\donnees.csv
+ORA-01722: Nombre non valide

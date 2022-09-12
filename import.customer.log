@@ -1,0 +1,152 @@
+
+
+ LOG file opened at 03/09/20 15:53:37
+
+Field Definitions for table CUSTOMER
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\dataCostumer.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 02:21:39
+
+Field Definitions for table CUSTOMER
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\dataCostumer.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 02:27:02
+
+Field Definitions for table CUSTOMER
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\dataCostumer.csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 02:31:07
+
+Field Definitions for table CUSTOMER
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NAME                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    PAYS                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SEXE                            CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE                             CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    NOMBRE_PROJET                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column CUSTOMER_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\dataCostumer.csv
+ORA-01722: Nombre non valide

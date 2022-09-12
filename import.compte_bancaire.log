@@ -1,0 +1,60 @@
+
+
+ LOG file opened at 03/09/20 16:03:22
+
+Field Definitions for table COMPTE_BANCAIRE
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column COMPTE_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\Data_compte (1).csv
+ORA-01722: Nombre non valide
+
+
+ LOG file opened at 03/10/20 02:44:45
+
+Field Definitions for table COMPTE_BANCAIRE
+  Record format DELIMITED, delimited by 
+
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    COMPTE_ID                       CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SOLDE                           CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    AGE_COMPTE                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    CREDITSCORE                     CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+error processing column COMPTE_ID in row 1 for datafile C:\Users\bonkano\Desktop\Travail de Alassane Bonkano Abdoul-Razak\Data_compte (1).csv
+ORA-01722: Nombre non valide
